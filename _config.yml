@@ -6,9 +6,12 @@ color:
   saturation: 0.23481634119525552
   rhythmicContrast: 0.7390276081860065
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: 'The Law Office of James Harrington '
+author:
+  name: James Harrington
+  email: jamesharringtonlaw@gmail.com
